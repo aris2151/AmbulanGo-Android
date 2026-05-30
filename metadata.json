@@ -1,0 +1,6 @@
+{
+  "name": "AmbunalGo",
+  "description": "Layanan pemesanan ambulans medis, ambulans jenazah, ambulans event, dan SOS darurat mirip GO-JEK terintegrasi WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

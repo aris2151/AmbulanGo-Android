@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Red Outer Glowing Ring -->
+    <path
+        android:fillColor="#33FF1744"
+        android:pathData="M 54, 54 m -42, 0 a 42,42 0 1,0 84,0 a 42,42 0 1,0 -84,0" />
+
+    <!-- Solid Crimson Circular Core -->
+    <path
+        android:fillColor="#FFFF1744"
+        android:pathData="M 54, 54 m -32, 0 a 32,32 0 1,0 64,0 a 32,32 0 1,0 -64,0" />
+
+    <!-- Clean White Medical Cross inside circular core -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 47,38 L 61,38 L 61,47 L 70,47 L 70,61 L 61,61 L 61,70 L 47,70 L 47,61 L 38,61 L 38,47 L 47,47 Z" />
+</vector>
